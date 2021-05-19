@@ -5,3 +5,6 @@
 3. Isak skapar enskild map för textur i samtliga objektmappar
 
 
+4.25 cm
+8,8 bred
+
